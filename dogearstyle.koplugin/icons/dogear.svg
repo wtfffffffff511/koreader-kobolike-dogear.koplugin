@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- 黑洞：右上角被折走的区域（黑色，盖住下方内容） -->
+  <polygon fill="#000" stroke="#000" stroke-miterlimit="10" points="0 0 512 313.21 512 0 0 0"/>
+  <!-- 翻出的 flap（白色 + 黑色描边） -->
+  <polygon fill="#fff" stroke="#000" stroke-width="4" stroke-miterlimit="10" points="1.01 1.52 516.28 309.32 238.94 454.88 1.01 1.52"/>
+  <!-- 折痕/阴影楔形 -->
+  <polyline fill="#000" stroke="#000" stroke-width="4" stroke-miterlimit="10" points="298.44 421.97 334.28 458.36 509.49 314.43"/>
+</svg>
